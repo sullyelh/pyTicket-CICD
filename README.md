@@ -1,5 +1,5 @@
 # AWS CI/CD Pipeline
-![image description](/img/CICD.png)
+![Pipeline Graphic](/img/CICD.png)
 
 ### To-Do:
 1. Configure EBS App.
